@@ -9,6 +9,20 @@
         <dex dex="C:\Users\Kenny Lasseter\Documents\GitHub\ToFly2016App\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_f45ee69e59bb6dbf4aa9c77c899a118abb274313\classes.dex" />
     </item>
     <item
+        jar="C:\Users\Kenny Lasseter\Documents\GitHub\ToFly2016App\App\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ea5b7aac6b9776ceb1b25db7ff98c5e2a43e1c19">
+        <dex dex="C:\Users\Kenny Lasseter\Documents\GitHub\ToFly2016App\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_dcbacacc0a1b4df346cd68c090725e4401954a49\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kenny Lasseter\Documents\GitHub\ToFly2016App\App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Kenny Lasseter\Documents\GitHub\ToFly2016App\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_ddbf2d5ecf2940e5e3d500ba83d293cd59ea3551\classes.dex" />
+    </item>
+    <item
         jar="C:\Users\Kenny Lasseter\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
         jumboMode="true"
         revision="24.0.0"
@@ -30,24 +44,10 @@
         <dex dex="C:\Users\Kenny Lasseter\Documents\GitHub\ToFly2016App\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_6878c6d35d16b3097be57df2bc266a8c4ee319e8\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Kenny Lasseter\Documents\GitHub\ToFly2016App\App\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="c184d296c32500b233d1571807fa44b3e27ee0ed">
-        <dex dex="C:\Users\Kenny Lasseter\Documents\GitHub\ToFly2016App\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_dcbacacc0a1b4df346cd68c090725e4401954a49\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Kenny Lasseter\Documents\GitHub\ToFly2016App\App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
-        <dex dex="C:\Users\Kenny Lasseter\Documents\GitHub\ToFly2016App\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_ddbf2d5ecf2940e5e3d500ba83d293cd59ea3551\classes.dex" />
-    </item>
-    <item
         jar="C:\Users\Kenny Lasseter\Documents\GitHub\ToFly2016App\App\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="9055197e4c0cb7845184f067c1ab06b9a5895dcf">
+        sha1="9d02cc3f2d69efce0a52871e2e379c692c01bb9b">
         <dex dex="C:\Users\Kenny Lasseter\Documents\GitHub\ToFly2016App\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a24327b0cce1bc80e01ae4af16b9e24ee766f5fa\classes.dex" />
     </item>
     <item
