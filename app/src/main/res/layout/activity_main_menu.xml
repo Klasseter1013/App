@@ -52,7 +52,7 @@
             android:layout_height="90dp"
             android:onClick="map"
             android:id="@+id/MapBtn"
-            android:background="@drawable/mapone"
+            android:background="@drawable/mapbtn"
             android:layout_marginTop="5dp"
             android:layout_marginLeft="390dp"/>
 
@@ -69,7 +69,7 @@
             android:id="@+id/GamesBtn"
             android:layout_marginLeft="390dp"
             android:layout_marginTop="0dp"
-            android:background="@drawable/buttonthree" />
+            android:background="@drawable/gamesbtn" />
 
     </LinearLayout>
 
@@ -82,7 +82,7 @@
             android:layout_height="90dp"
             android:onClick="plane"
             android:id="@+id/PlaneBtn"
-            android:background="@drawable/buttonfour"
+            android:background="@drawable/planebtn"
             android:layout_marginLeft="390dp"
             android:layout_marginTop="0dp"
             android:layout_marginBottom="0dp"/>
@@ -99,7 +99,7 @@
             android:layout_height="90dp"
             android:onClick="space"
             android:id="@+id/SpaceBtn"
-            android:background="@drawable/mapone"
+            android:background="@drawable/marsbtn"
             android:layout_marginLeft="390dp"
             android:layout_marginTop="0dp"
             android:layout_marginBottom="0dp"/>
