@@ -47,7 +47,6 @@ public class MainMenu extends Activity implements View.OnClickListener, PopupMen
 
     //Create buttons for the different activities
     public void chrono(View v){
-        Toast.makeText(this,"This button will open the Timeline",Toast.LENGTH_SHORT).show();
         Intent intent = new Intent(this,chronology.class);
         startActivity(intent);
     }
@@ -64,10 +63,13 @@ public class MainMenu extends Activity implements View.OnClickListener, PopupMen
             @Override
             public void onClick(DialogInterface dialog, int which) {
                 if(which == 0){
-                    Toast.makeText(getBaseContext(),"This button will open Trivia",Toast.LENGTH_SHORT).show();
+                    Intent intent = new Intent(MainMenu.this, QuizActivity.class);
+                    startActivity(intent);
                 }
                 else{
                     Toast.makeText(getBaseContext(),"This button will open Soarin' Planes",Toast.LENGTH_SHORT).show();
+                    //Intent intent = new Intent(MainMenu.this, soarinPlanes.class);
+                    //startActivity(intent);
                 }
             }
         });

@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\Kenny Lasseter\Documents\GitHub\ToFly2016App\App\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c0a2962e78bf99434496ffac2b7250f91715e6b3">
+        <dex dex="C:\Users\Kenny Lasseter\Documents\GitHub\ToFly2016App\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_dcbacacc0a1b4df346cd68c090725e4401954a49\classes.dex" />
+    </item>
+
+</items>

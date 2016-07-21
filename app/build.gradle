@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "edu.fau.lasseter.tofly2016"
-        minSdkVersion 23
+        minSdkVersion 13
         targetSdkVersion 24
         versionCode 1
         versionName "1.0"
