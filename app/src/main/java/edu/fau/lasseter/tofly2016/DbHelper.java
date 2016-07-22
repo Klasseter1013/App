@@ -41,14 +41,12 @@ public class DbHelper extends SQLiteOpenHelper {
 		Question q2=new Question("When was the first " +
 				"successful airplane invented?", "1923", "1893", "1903", "1903");
 		this.addQuestion(q2);
-		Question q3=new Question("Who built the first glider" +
-				" in 1799?","George Little", "George Cayley","George Washington","George Cayley");
+		Question q3=new Question("Which plane has a length of 124 ft?","Airbus A380", "Boeing DC9","Zivko Edge 540","Boeing DC9");
 		this.addQuestion(q3);
-		Question q4=new Question("Which country invented" +
-				" the kite?","China", "Japan", "Britain","China");
+		Question q4=new Question("Which plane currently dominates" +
+				" air races?","Zivko Edge","Boeing DC-9","F-40 Corsair", "Zivko Edge");
 		this.addQuestion(q4);
-		Question q5=new Question("Airplanes were used during World War I" +
-				" for _________","Transporting supplies to soldiers","Bringing food to soldiers","Fighting","Fighting");
+		Question q5=new Question("What is the most powerful single seat,single engine, stealth, supersonic atack fighter ever made?","Cessna Skyhawk 172","Airbus A380","F-40 Corsair","F-40 Corsair");
 		this.addQuestion(q5);
 		Question q6=new Question("Which of the following is NOT an aerodynamic force?", "Thrust", "Pressure", "Lift", "Pressure");
 		this.addQuestion(q6);
@@ -62,6 +60,7 @@ public class DbHelper extends SQLiteOpenHelper {
 		this.addQuestion(q9);
 		Question q10=new Question("Commercial planes began flying _________", "Before World War I", "After "+
 		"World War I", "During World War II", "After World War I");
+		this.addQuestion(q10);
 	}
 	@Override
 	public void onUpgrade(SQLiteDatabase db, int oldV, int newV) {
